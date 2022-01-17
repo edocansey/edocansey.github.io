@@ -1539,9 +1539,10 @@ a.bg-video-button-muted{
 .nav-logo-wrap .logo:after{
     display: none;
 }
+
 .logo{
-    margin-top: 30%;
-    padding-bottom: 20%;
+    margin-top: 20%;
+    padding-bottom: 15%;
 }
 
 a.logo:hover{
